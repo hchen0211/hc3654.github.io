@@ -14,5 +14,8 @@ date: "2025-10-23"
 
 Click here to view my resume: [Resume](Haohua_resume.pdf) 
 
+Some Work Example:
+[Dashboard](dashboard.html)
+
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9kbXQybGNtemNzajMwMDQwYW9kdjB1MXYxemI0ZzBpMGI1dXlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif)
 

@@ -1,0 +1,71 @@
+---
+title: "dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+[Home](index.html)
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(p8105.datasets)
+library(plotly)
+library(tidyverse)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+```{r}
+data("instacart")
+
+instacart_beauty_herbs_mike <- instacart |> 
+  filter(aisle == "energy granola bars"| aisle == "fresh herbs" | aisle =="milk") |> 
+  mutate(order_dow = case_when(
+    order_dow == 0 ~ "Sunday",
+    order_dow == 1 ~ "Monday",
+    order_dow == 2 ~ "Tuesday",
+    order_dow == 3 ~ "Wednesday",
+    order_dow == 4 ~ "Thursday",
+    order_dow == 5 ~ "Friday",
+    order_dow == 6 ~ "Saturday",
+  ),
+  order_dow = factor(order_dow, 
+                       levels = c("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"),
+                       ordered = TRUE)
+  )|> 
+  group_by(order_dow, aisle) |> 
+  summarise(number = n()) |> 
+  pivot_wider(
+    names_from = order_dow,
+    values_from = number
+  )
+```
+
+
+
+
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
