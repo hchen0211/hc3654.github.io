@@ -1,0 +1,18 @@
+---
+title: "Welcome to my website!!!!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+    
+author: "Haohua Chen"
+date: "2025-10-23"
+---
+
+**My name is Haohua(David) Chen, Currently first year master student in the Columbia University Mailman School of Public Health.**
+
+Click here to view my resume: [Resume](Haohua_resume.pdf) 
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9kbXQybGNtemNzajMwMDQwYW9kdjB1MXYxemI0ZzBpMGI1dXlkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif)
+

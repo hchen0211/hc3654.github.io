@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<chenhaohua2002@gmail.com>
+    - text: "linkedin"
+      href: https://www.linkedin.com/in/haohuachen/
+    - text: "Github"
+      href: https://github.com/hchen0211
+
+      
+output:
+  html_document:
+    theme: cerulean
