@@ -3,12 +3,15 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Dashboard"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<chenhaohua2002@gmail.com>
-    - text: "linkedin"
+    - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/haohuachen/
-    - text: "Github"
+    - icon: fa-brands fa-github
       href: https://github.com/hchen0211
+    
 
       
 output:

@@ -42,7 +42,6 @@ instacart_beauty_herbs_milk <- instacart |>
     names_from = order_dow,
     values_from = number
   )
-instacart_beauty_herbs_milk
 ```
 
 ### Chart A

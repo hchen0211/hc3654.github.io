@@ -1,0 +1,57 @@
+---
+title: "Haohua (David) Chen"
+output: html_document
+---
+
+📞 610-331-3929 | ✉ chenhaohua2002@gmail.com | New York, NY
+
+**Education**
+
+**Columbia University** – New York, NY
+
+Master of Science in Biostatistics (Public Health Data Science Track) | Expected May 2027
+
+**University of Massachusetts Amherst** – Amherst, MA
+
+Bachelor of Science in Public Health Science | Minor: Psychology, Mathematics | GPA: 3.81
+Sep 2021 – May 2025
+
+**Experience**
+
+**Massachusetts Department of Public Health** – Massachusetts, USA
+
+Local Health Intern | Jun 2025 – Aug 2025
+
+Completed 160-hour practicum supporting Northampton’s private well regulations.
+Developed SAS programs to link well data with property records and track construction
+trends.
+Authored a public health abstract and presented a scientific poster to academic and
+regulatory audiences.
+
+**Deqing County Center for Disease Control (CDC)** – Guangdong, China
+
+Data Analyst Intern | Jun 2024 – Aug 2024
+
+Analyzed food samples from 12 townships for pathogens and heavy metals.
+Updated epidemiological databases and proposed post-pandemic disease control measures.
+Assessed occupational exposures (noise, dust) to inform prevention protocol revisions.
+
+**Perception Vision Medical Technologies Co., Ltd.** – Guangzhou, China
+Marketing Data Intern | Jul 2023 – Aug 2023
+
+Researched AI-powered medical imaging and radiotherapy applications.
+Built an Excel-based competitor database to support market analysis.
+Designed promotional materials for the 17th Annual CSCO Changbai Tumor Conference.
+
+**Certifications & Honors**
+
+SAS Certified Professional: Advanced Programming (July 2025)
+SAS Certified Specialist: Base Programming (June 2025)
+American Heart Association – Heartsaver CPR AED (Valid 2025–2027)
+Dean’s List (7 semesters, 2021–2025)
+
+**Skills**
+
+Programming: R, Python, SAS, SQL
+Data Visualization: Power BI, Excel
+Languages: English (Professional), Mandarin (Native), Cantonese (Native)
