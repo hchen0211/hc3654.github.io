@@ -13,6 +13,8 @@ date: "2025-10-23"
 
 **Welcome to my personal website! My name is Haohua(David) Chen, Currently first year master student in the Columbia University Mailman School of Public Health.**
 
+<img src="Haohua.JPEG" style="float: right; margin-left: 10px; width: 200px;">
+
 Click here to view my resume:[Resume](resume.html)      [PDF](Haohua_resume.pdf)   
 
 Some Work Example:
